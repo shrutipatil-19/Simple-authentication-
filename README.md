@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Simple-authentication-
+A basic authentication system in Laravel 11, featuring user registration (signup), login, and a dashboard. Users can create a new account by providing essential details such as name, email, and password. The system validates the data, ensuring the email is unique. 
+>>>>>>> c69fc321b887398d3c379d180ce5f28eeae5e3fd
